@@ -1,6 +1,6 @@
-### Привет! 👋 Меня зовут Гузаль.
+### Привет! Меня зовут Гузаль.
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/7aTMhUnGeyktmAEvN3/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/7aTMhUnGeyktmAEvN3/giphy.gif" width="150"/>
 </div>
 <!--
 **guzal-chukhlebova/guzal-chukhlebova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
