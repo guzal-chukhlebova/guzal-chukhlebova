@@ -1,7 +1,20 @@
-### Привет! Меня зовут Гузаль.
+### Привет!:wave: Меня зовут Гузаль.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7aTMhUnGeyktmAEvN3/giphy.gif" width="150"/>
 </div>
+
+
+- :octocat: Я аналитик данных
+
+- :student: Прошла интерактивный тренажер SQL, продолжаю оттачивать навыки на learn-db. Умею определять значимость отклонений по метрикам методами T-test, Mann-Whitney U-test
+
+- :zap: Углубляю техническую экспертизу, развиваюсь в направлении DS/ML
+
+- :iphone: Telegram @guzal_chukhlebova
+
+
+
+
 <!--
 **guzal-chukhlebova/guzal-chukhlebova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
