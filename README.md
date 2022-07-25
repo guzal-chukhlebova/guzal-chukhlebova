@@ -1,8 +1,4 @@
 ### Привет!:wave: Меня зовут Гузаль.
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/7aTMhUnGeyktmAEvN3/giphy.gif" width="150"/>
-</div>
-
 
 - :octocat: Я аналитик данных
 
